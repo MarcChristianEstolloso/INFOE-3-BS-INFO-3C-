@@ -62,4 +62,9 @@
     - Compile and submit/push files to repository within a single folder. It will look like this:
         - ![see image](image.png)
 
-    - Naming convention: lastname_course/yr/section_lab1 
+    - Naming convention: lastname_course/yr/section_lab1
+
+    - For reference
+        - [![How to  Push Complete Folder or File to Github using Gitbash within 4 Minutes](https://thumbs.video-to-markdown.com/a0a2f3f4.jpg)](https://youtu.be/wUsAzk78mVI)
+
+        - [![How to Use GitHub Desktop (2025) 💻 | Beginner’s Step-by-Step GitHub GUI Tutorial](https://thumbs.video-to-markdown.com/6c86a836.jpg)](https://youtu.be/AYJQi6TyPyU)
